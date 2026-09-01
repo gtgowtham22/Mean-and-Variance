@@ -1,4 +1,4 @@
-# DATE :28.01.2026                        
+                      
 
 # EX NO. 1: Mean and variance of a discrete  distribution
 
@@ -89,6 +89,5 @@ The Standard deviation of arrival from feeder is 28.723
 
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
-# Link :
-https://github.com/gtgowtham22/Mean-and-Variance
+
 
